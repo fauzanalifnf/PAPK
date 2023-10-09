@@ -1,0 +1,1 @@
+document.write("Kode Javascript Eksternal");
